@@ -1,0 +1,34 @@
+git status
+   git add testing.py
+   git status
+   git rm --cached testing.py
+   git status
+   git add testing.py
+   git status
+   git commit -m "added testing files"
+    git status
+    rm testing.py
+    ls
+    git status
+    git restore testing.py
+    git status
+   history
+   sudo su
+   git remote add origin
+   git remote -v 
+   git remote set-url origin
+   git remote -v
+   git push origin master
+   git status
+   git log testing.py
+   clear
+   git --version
+   cd Documents/Prachi_Devops_Github
+   pwd
+   cd ..
+   mkdir git-demo-new
+   cd git-demo-new
+   git clone 
+    history
+    live
+    here
